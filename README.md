@@ -16,4 +16,5 @@
 | [0595-big-countries](https://github.com/Rubab13/LeetCode-SQL/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Rubab13/LeetCode-SQL/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Rubab13/LeetCode-SQL/tree/master/0619-biggest-single-number) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rubab13/LeetCode-SQL/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
