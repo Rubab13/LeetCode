@@ -17,6 +17,7 @@
 | [0596-classes-more-than-5-students](https://github.com/Rubab13/LeetCode-SQL/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Rubab13/LeetCode-SQL/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/Rubab13/LeetCode-SQL/tree/master/1258-article-views-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rubab13/LeetCode-SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Rubab13/LeetCode-SQL/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rubab13/LeetCode-SQL/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
