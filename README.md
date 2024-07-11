@@ -26,5 +26,6 @@
 | [1827-invalid-tweets](https://github.com/Rubab13/LeetCode-SQL/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Rubab13/LeetCode-SQL/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rubab13/LeetCode-SQL/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Rubab13/LeetCode-SQL/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rubab13/LeetCode-SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
