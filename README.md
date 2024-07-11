@@ -17,6 +17,7 @@
 | [0596-classes-more-than-5-students](https://github.com/Rubab13/LeetCode-SQL/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Rubab13/LeetCode-SQL/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/Rubab13/LeetCode-SQL/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rubab13/LeetCode-SQL/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rubab13/LeetCode-SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Rubab13/LeetCode-SQL/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Rubab13/LeetCode-SQL/tree/master/1877-find-followers-count) |
