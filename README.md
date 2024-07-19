@@ -21,6 +21,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/Rubab13/LeetCode-SQL/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Rubab13/LeetCode-SQL/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Rubab13/LeetCode-SQL/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/Rubab13/LeetCode-SQL/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rubab13/LeetCode-SQL/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rubab13/LeetCode-SQL/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Rubab13/LeetCode-SQL/tree/master/1801-average-time-of-process-per-machine) |
