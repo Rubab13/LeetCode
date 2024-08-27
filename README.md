@@ -30,4 +30,12 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/Rubab13/LeetCode-SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Rubab13/LeetCode-SQL/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rubab13/LeetCode-SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rubab13/LeetCode-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rubab13/LeetCode-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
